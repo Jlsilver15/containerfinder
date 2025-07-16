@@ -71,8 +71,8 @@ bb = ContainerProfile ('Legacy box 6', 3, 12, 25)
 bc = ContainerProfile ('Legacy box 7', 5.5, 9, 16.75)
 bd = ContainerProfile ('Legacy box 8', 1, 7.88, 7.88)
 be = ContainerProfile ('Legacy box 9', 1.5, 22, 17)
-
-list = [a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z, aa, ab, ac, ad, ada, adb, abc, abd, ae, aea, af, ag, ah, aha, ai, aj, ak, al, ala, am, an, ana, anb, ao, ap, aq, ar, bs, at, au, av, aw, ax, ay, az, ba, bb, bc, bd, be]
+bf = ContainerProfile ('test box 1', 1, 1, 1)
+list = [a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z, aa, ab, ac, ad, ada, adb, abc, abd, ae, aea, af, ag, ah, aha, ai, aj, ak, al, ala, am, an, ana, anb, ao, ap, aq, ar, bs, at, au, av, aw, ax, ay, az, ba, bb, bc, bd, be, bf]
 
 he = input('Height')
 wi = input('Width')
